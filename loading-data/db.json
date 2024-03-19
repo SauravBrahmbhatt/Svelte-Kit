@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juliet Oma",
+      "email": "julie@yahoo.com",
+      "number": "08100000000"
+    },
+    {
+      "id": 2,
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": 4,
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333333"
+    }
+  ],
+  "postcodes": [
+    {
+      "address_line_1": "789 Pine Avenue",
+      "address_line_2": "Suite 200",
+      "city": "Hilltown",
+      "state": "CA",
+      "zip_code": "54321",
+      "country": "USA",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "contact_name": "John Doe",
+      "phone_number": "(555) 123-4567",
+      "email": "john.doe@example.com",
+      "is_residential": true,
+      "is_primary": true,
+      "notes": "Deliveries can be made at the back entrance."
+    },
+    {
+      "address_line_1": "456 Maple Street",
+      "address_line_2": "Apt 301",
+      "city": "Valleyview",
+      "state": "TX",
+      "zip_code": "67890",
+      "country": "USA",
+      "latitude": 32.7767,
+      "longitude": -96.7970,
+      "contact_name": "Jane Smith",
+      "phone_number": "(555) 987-6543",
+      "email": "jane.smith@example.com",
+      "is_residential": true,
+      "is_primary": false,
+      "notes": "Use side entrance for deliveries."
+    },
+    {
+      "address_line_1": "1010 Oak Lane",
+      "city": "Forestville",
+      "state": "WA",
+      "zip_code": "12345",
+      "country": "USA",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "contact_name": "Alice Johnson",
+      "phone_number": "(555) 456-7890",
+      "email": "alice.johnson@example.com",
+      "is_residential": false,
+      "is_primary": true,
+      "notes": "Do not leave packages unattended."
+    }            
+  ],
+  "books":[
+    {
+      "name": "Handmade Steel Ball",
+      "authorName": "Timmy Connelly",
+      "publishedAt": 1710744514,
+      "id": "1"
+    },
+    {
+      "name": "Ergonomic Steel Cheese",
+      "authorName": "Carlos Upton",
+      "publishedAt": 1710744454,
+      "id": "2"
+    },
+    {
+      "name": "Handmade Rubber Shirt",
+      "authorName": "Eunice Bartell",
+      "publishedAt": 1710744394,
+      "id": "3"
+    },
+    {
+      "name": "Refined Cotton Chips",
+      "authorName": "Aaron Torphy",
+      "publishedAt": 1710744334,
+      "id": "4"
+    },
+    {
+      "name": "Handmade Rubber Shoes",
+      "authorName": "Cecilia Franey II",
+      "publishedAt": 1710744274,
+      "id": "5"
+    },
+    {
+      "name": "Unbranded Steel Pants",
+      "authorName": "June Runte",
+      "publishedAt": 1710744214,
+      "id": "6"
+    },
+    {
+      "name": "Sleek Rubber Sausages",
+      "authorName": "Donna Mann",
+      "publishedAt": 1710744154,
+      "id": "7"
+    },
+    {
+      "name": "Licensed Bronze Cheese",
+      "authorName": "Christy Watsica",
+      "publishedAt": 1710744094,
+      "id": "8"
+    },
+    {
+      "name": "Practical Metal Computer",
+      "authorName": "Frank Shields",
+      "publishedAt": 1710744034,
+      "id": "9"
+    }
+  ]
+}
